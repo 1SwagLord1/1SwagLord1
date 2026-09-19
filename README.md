@@ -1,16 +1,25 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/header.svg" alt="1SWAGLORD1 — Less ceremony. More shipped code." width="100%" />
+</p>
 
-<!--
-**1SwagLord1/1SwagLord1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like my tools sharp, my feedback loops short, and my abstractions on probation.
 
-Here are some ideas to get you started:
+Currently poking at AI coding tools, model routing, and the machinery behind them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### /workbench
+
+| Project | What's on the bench |
+| :--- | :--- |
+| [Jev-routewise](https://github.com/1SwagLord1/Jev-routewise) | My fork of **jev-router** — task-aware model routing for Claude Code. |
+| [claw-code](https://github.com/1SwagLord1/claw-code) | My fork of **claw-code** — exploring the coding-agent harness. |
+
+### /defaults
+
+```text
+build something real
+find the boring solution
+delete the extra layer
+repeat
+```
+
+<sub>High standards. Low tolerance for boilerplate. Questionable username.</sub>
